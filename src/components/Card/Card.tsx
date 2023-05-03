@@ -92,6 +92,7 @@ const TopWrapper = styled.View`
   display: flex;
   flex-direction: row;
   align-items: baseline;
+  justify-content: center;
   margin-top: 50px;
 `;
 
